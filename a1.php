@@ -1,9 +1,10 @@
-
+son
 <<<<<<<<<<<<<
 <?php
-    echo "hoclaptrinh";
+    echo "hoclaptrinhabc";
 ?>
 <?php
     echo "hoclaptrinh"
+    print "hello"
 ?>
 <<<<<<<<<<<<<<<,
